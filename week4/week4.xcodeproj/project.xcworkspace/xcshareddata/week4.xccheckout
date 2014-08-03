@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B5105BB7-3A46-43EA-ADE4-EC69E43FAD3A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>week4</string>
+	<key>IDESourceControlProjectPath</key>
+	<string>week4.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FA12035F-5A65-4A88-A720-8C61CDE82842</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://github.com/sunsidew/ios_clear</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FA12035F-5A65-4A88-A720-8C61CDE82842</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FA12035F-5A65-4A88-A720-8C61CDE82842</string>
+			<key>IDESourceControlWCCName</key>
+			<string>week4</string>
+		</dict>
+	</array>
+</dict>
+</plist>
